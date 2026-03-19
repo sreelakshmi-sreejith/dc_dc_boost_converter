@@ -123,4 +123,4 @@ ECE | Embedded Systems | VLSI
 The boost converter successfully demonstrates voltage step-up using switching techniques, with effective control and stable output, making it suitable for practical power electronics applications.
 
 
-Voltage gain:
+//Schematic Upon Request
