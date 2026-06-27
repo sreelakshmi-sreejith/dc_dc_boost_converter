@@ -83,14 +83,6 @@ From design:
 
 ---
 
-## 📷 Project Demonstration
-
-(Add these)
-
-- Hardware setup  
-- Output waveform  
-- Measured voltage  
-
 ## ▶️ How to Run
 
 1. Build circuit as per schematic  
